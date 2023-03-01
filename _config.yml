@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Guanlin Li's Homepage"
 title_separator          : "-"
 name                     : &name "Guanlin Li"
-description              : &description "personal description"
+description              : &description "A Dota player"
 url                      : 'https://guanlinlee.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guanlin Li"
-  avatar           : "profile.png"
+  avatar           : "face.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Singapore"
   employer         :
