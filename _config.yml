@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guanlin Li"
   avatar           : "face.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate at Nanyang Technological University"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3LB0_wMAAAAJ&hl"
-  email            :
+  email            : guanlin001@e.ntu.edu.sg
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
