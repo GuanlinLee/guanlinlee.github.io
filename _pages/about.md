@@ -22,6 +22,12 @@ Research Interests
 Publications
 ======
 
+* Adversarial Training Over Long-Tailed Distribution [[pdf](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
+
+  **Guanlin Li**, Guowen Xu, Tianwei Zhang
+  
+  arXiv, 2023
+
 * Omnipotent Adversarial Training for Unknown Label-noisy and Imbalanced Datasets [[pdf](https://arxiv.org/abs/2307.08596)] [[code](https://github.com/guanlinlee/oat)]
 
   **Guanlin Li**, Kangjie Chen, Yuan Xu, Han Qiu, Tianwei Zhang
