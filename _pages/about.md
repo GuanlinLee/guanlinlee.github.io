@@ -22,6 +22,13 @@ Research Interests
 Publications
 ======
 
+* Towards the Vulnerability of Watermarking Artificial Intelligence Generated Content
+ [[pdf](https://arxiv.org/abs/2310.07726)]
+
+  **Guanlin Li**, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang
+  
+  arXiv, 2023
+
 * Adversarial Training Over Long-Tailed Distribution [[pdf](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
 
   **Guanlin Li**, Guowen Xu, Tianwei Zhang
