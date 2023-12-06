@@ -29,11 +29,33 @@ Publications
   
   arXiv, 2023
 
+
+* Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness
+ [[pdf](https://arxiv.org/abs/2312.02237)]
+
+  **Guanlin Li**, Naishan Zheng, Man Zhou, Jie Zhang, Tianwei Zhang
+  
+  arXiv, 2023
+
+
+
+* Rethinking Adversarial Training with Neural Tangent Kernel
+ [[pdf](https://arxiv.org/abs/2312.02236)]
+
+  **Guanlin Li**, Han Qiu, Shangwei Guo, Jiwei Li, Tianwei Zhang
+  
+  arXiv, 2023
+
+
+
+
 * Adversarial Training Over Long-Tailed Distribution [[pdf](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
 
   **Guanlin Li**, Guowen Xu, Tianwei Zhang
   
   arXiv, 2023
+
+
 
 * Omnipotent Adversarial Training for Unknown Label-noisy and Imbalanced Datasets [[pdf](https://arxiv.org/abs/2307.08596)] [[code](https://github.com/guanlinlee/oat)]
 
@@ -41,11 +63,14 @@ Publications
   
   arXiv, 2023
 
+
+
 * Extracting Robust Models with Uncertain Examples [[pdf](https://openreview.net/forum?id=cMAjKYftNwx)] [[code](https://github.com/GuanlinLee/BEST)]
 
   **Guanlin Li**, Guowen Xu, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang
   
   Proceedings of the International Conference on Learning Representations, 2023
+
 
 
 * Secure Decentralized Image Classification with Multiparty Homomorphic Encryption [[pdf](https://ieeexplore.ieee.org/abstract/document/10006830)]
@@ -56,11 +81,13 @@ Publications
 
 
 
+
 * A Benchmark of Long-tailed Instance Segmentation with Noisy Labels [[pdf](https://arxiv.org/abs/2211.13435)] [[code](https://github.com/GuanlinLee/Noisy-LVIS)]
 
   **Guanlin Li**, Guowen Xu, Tianwei Zhang
   
   arXiv, 2022
+
 
 
 * Improving Adversarial Robustness of 3D Point Cloud Classification Models [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_39)] [[code](https://github.com/GuanlinLee/CCNAMS)]
@@ -70,6 +97,7 @@ Publications
   Proceedings of the European Conference on Computer Vision, 2022
 
 
+
 * A Novel Verifiable Fingerprinting Scheme for Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
 
   **Guanlin Li**,  Guowen Xu, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li, Tianwei Zhang
@@ -77,11 +105,13 @@ Publications
   arXiv, 2021
 
 
+
 * Enhancing intrinsic adversarial robustness via feature pyramid decoder [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhancing_Intrinsic_Adversarial_Robustness_via_Feature_Pyramid_Decoder_CVPR_2020_paper.html)] [[code](https://github.com/GuanlinLee/FPD-for-Adversarial-Robustness)]
 
   **Guanlin Li**, Shuya Ding, Jun Luo, Chang Liu
   
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+
 
 
 * Scnet: A neural network for automated side-channel attack [[pdf](https://arxiv.org/abs/2008.00476)] [[code](https://github.com/GuanlinLee/SCNet)]
