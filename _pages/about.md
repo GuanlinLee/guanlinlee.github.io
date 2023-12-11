@@ -22,7 +22,7 @@ Research Interests
 Publications
 ======
 
-* Towards the Vulnerability of Watermarking Artificial Intelligence Generated Content
+* Warfare:Breaking the Watermark Protection of AI-Generated Content
  [[pdf](https://arxiv.org/abs/2310.07726)]
 
   **Guanlin Li**, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang
@@ -49,7 +49,7 @@ Publications
 
 
 
-* Adversarial Training Over Long-Tailed Distribution [[pdf](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
+* Alleviating the Effect of Data Imbalance on Adversarial Training [[pdf](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
 
   **Guanlin Li**, Guowen Xu, Tianwei Zhang
   
@@ -57,7 +57,7 @@ Publications
 
 
 
-* Omnipotent Adversarial Training for Unknown Label-noisy and Imbalanced Datasets [[pdf](https://arxiv.org/abs/2307.08596)] [[code](https://github.com/guanlinlee/oat)]
+* Omnipotent Adversarial Training in the Wild [[pdf](https://arxiv.org/abs/2307.08596)] [[code](https://github.com/guanlinlee/oat)]
 
   **Guanlin Li**, Kangjie Chen, Yuan Xu, Han Qiu, Tianwei Zhang
   
