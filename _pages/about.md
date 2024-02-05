@@ -22,6 +22,13 @@ Research Interests
 Publications
 ======
 
+* PRIME: Protect Your Videos From Malicious Editing
+ [[pdf](https://arxiv.org/abs/2402.01239)][[code](https://github.com/GuanlinLee/prime)]
+
+  **Guanlin Li**, Shuai Yang, Jie Zhang, Tianwei Zhang
+  
+  arXiv, 2024
+
 * Warfare:Breaking the Watermark Protection of AI-Generated Content
  [[pdf](https://arxiv.org/abs/2310.07726)]
 
