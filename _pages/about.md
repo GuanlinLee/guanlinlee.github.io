@@ -24,7 +24,7 @@ Publications
 
 * Fingerprinting Image-to-Image Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
 
-  **Guanlin Li**,  Guowen Xu, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li, Tianwei Zhang
+  **Guanlin Li**,  Guowen Xu, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li, Tianwei Zhang, Rongxing Lu
   
   EuroS&P, 2024
 
