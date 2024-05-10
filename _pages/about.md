@@ -22,6 +22,13 @@ Research Interests
 Publications
 ======
 
+* Fingerprinting Image-to-Image Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
+
+  **Guanlin Li**,  Guowen Xu, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li, Tianwei Zhang
+  
+  EuroS&P, 2024
+
+
 * PRIME: Protect Your Videos From Malicious Editing
  [[pdf](https://arxiv.org/abs/2402.01239)][[code](https://github.com/GuanlinLee/prime)]
 
@@ -103,13 +110,6 @@ Publications
   
   Proceedings of the European Conference on Computer Vision, 2022
 
-
-
-* A Novel Verifiable Fingerprinting Scheme for Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
-
-  **Guanlin Li**,  Guowen Xu, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li, Tianwei Zhang
-  
-  arXiv, 2021
 
 
 
