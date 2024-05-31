@@ -18,9 +18,17 @@ Research Interests
 * Computer Vision
 * Adversarial Attack and Defense
 * Backdoor Attack and Data Poison
+* Security of Large Generative Models
 
-Publications
+Researches
 ======
+* ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users
+ [[pdf](https://arxiv.org/abs/2405.19360)][[code](https://github.com/GuanlinLee/ART)]
+
+  **Guanlin Li**, Kangjie Chen, Shudong Zhang, Jie Zhang, Tianwei Zhang
+  
+  arXiv, 2024
+
 
 * Fingerprinting Image-to-Image Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
 
