@@ -27,7 +27,7 @@ Researches
 
   **Guanlin Li**, Kangjie Chen, Shudong Zhang, Jie Zhang, Tianwei Zhang
   
-  arXiv, 2024
+  NeurIPS, 2024
 
 
 * Fingerprinting Image-to-Image Generative Adversarial Networks [[pdf](https://arxiv.org/abs/2106.11760)]
