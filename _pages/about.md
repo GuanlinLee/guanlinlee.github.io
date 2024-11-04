@@ -22,7 +22,7 @@ Research Interests
 * Backdoor Attack and Data Poison
 * Security of Large Generative Models
 
-Researches (As the first author)
+Researches
 ======
 * ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users
  [[pdf](https://arxiv.org/abs/2405.19360)][[code](https://github.com/GuanlinLee/ART)]
