@@ -22,7 +22,7 @@ Research Interests
 * Backdoor Attack and Data Poison
 * Security of Large Generative Models
 
-Researches
+Researches (As the first author)
 ======
 * ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users
  [[pdf](https://arxiv.org/abs/2405.19360)][[code](https://github.com/GuanlinLee/ART)]
@@ -45,6 +45,7 @@ Researches
   **Guanlin Li**, Shuai Yang, Jie Zhang, Tianwei Zhang
   
   arXiv, 2024
+
 
 * Warfare:Breaking the Watermark Protection of AI-Generated Content
  [[pdf](https://arxiv.org/abs/2310.07726)]
