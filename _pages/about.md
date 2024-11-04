@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a Computer Science Ph.D. candidate under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) in S-Lab, Nanyang Technological University, Singapore. Before that, I received my B.Eng. degree in Information Security, Mathematics from Shandong University, China.
 
+**I am open to the job market and seeking jobs in AI security. Contact me if you are interested in my work.**
+
 
 Research Interests
 ======
@@ -91,7 +93,7 @@ Researches
 
   **Guanlin Li**, Guowen Xu, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang
   
-  Proceedings of the International Conference on Learning Representations, 2023
+  ICLR, 2023
 
 
 
@@ -116,7 +118,7 @@ Researches
 
   **Guanlin Li**, Guowen Xu, Han Qiu, Ruan He, Jiwei Li, Tianwei Zhang
   
-  Proceedings of the European Conference on Computer Vision, 2022
+  ECCV, 2022
 
 
 
@@ -125,7 +127,7 @@ Researches
 
   **Guanlin Li**, Shuya Ding, Jun Luo, Chang Liu
   
-  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+  CVPR, 2020
 
 
 
@@ -140,4 +142,4 @@ Researches
 Professional Services
 ------
 
-Conference Reviewer for ICML, NeurIPS, ICLR, ECCV, and ICCV
+Conference Reviewer for ICML, NeurIPS, ICLR, ECCV, ICCV and CVPR
