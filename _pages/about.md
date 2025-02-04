@@ -24,6 +24,14 @@ Research Interests
 
 Researches
 ======
+
+* Picky LLMs and Unreliable RMs: An Empirical Study on Safety Alignment after Instruction Tuning
+ [[pdf](https://arxiv.org/abs/2502.01116)][[code](https://github.com/GuanlinLee/llm_instruction_tuning)]
+
+  **Guanlin Li**, Kangjie Chen, Shangwei Guo, Jie Zhang, Han Qiu, Chao Zhang, Guoyin Wang, Tianwei Zhang, Jiwei Li
+  
+  arXiv, 2025
+
 * ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users
  [[pdf](https://arxiv.org/abs/2405.19360)][[code](https://github.com/GuanlinLee/ART)]
 
@@ -48,7 +56,7 @@ Researches
 
 
 * Warfare:Breaking the Watermark Protection of AI-Generated Content
- [[pdf](https://arxiv.org/abs/2310.07726)]
+ [[pdf](https://arxiv.org/abs/2310.07726)][[code](https://github.com/GuanlinLee/warfare)]
 
   **Guanlin Li**, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang
   
