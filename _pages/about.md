@@ -58,7 +58,7 @@ Researches
 * Warfare:Breaking the Watermark Protection of AI-Generated Content
  [[pdf](https://arxiv.org/abs/2310.07726)][[code](https://github.com/GuanlinLee/warfare)]
 
-  **Guanlin Li**, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang
+  **Guanlin Li**, Yifei Chen, Jie Zhang, Shangwei Guo, Han Qiu, Guoyin Wang, Jiwei Li, Tianwei Zhang
   
   arXiv, 2023
 
