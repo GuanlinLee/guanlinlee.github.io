@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guanlin Li's Homepage"
 title_separator          : "-"
 name                     : &name "Guanlin Li"
-description              : &description "Ph.D. candidate at Nanyang Technological University"
+description              : &description "Ph.D., focusing on AI security"
 url                      : 'https://guanlinlee.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuanlinLee/guanlinlee.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guanlin Li"
   avatar           : "face.png"
-  bio              : "Ph.D. candidate at Nanyang Technological University"
+  bio              : "Ph.D., focusing on AI security"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
