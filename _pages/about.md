@@ -12,7 +12,7 @@ I obtained my Computer Science Ph.D. degree under the supervision of Prof. [Tian
 
 My research focuses on critical aspects of artificial intelligence and machine learning security. Specifically, I investigate adversarial attacks and defenses, examining how malicious entities can exploit vulnerabilities in AI systems and developing robust strategies to mitigate these threats. I also explore the security of AI-generated content (AIGC), ensuring that generated outputs are safe and reliable. My work in red-teaming for models involves simulating adversarial and non-adversarial scenarios to test and improve the resilience of AI systems. Furthermore, I explore model intellectual property protection, devising methods to safeguard proprietary AI models from unauthorized access and misuse.
 
-**I am currently studying to build an Agent to help model developers find safety risks (jailbreak, adversarial examples, and so on) in generative models, such as LLM, VLM, and others. Contact me if you are interested and want cooperation. Note only for research studying.**
+I joined Huawei Technologies Co., Ltd in June 2025 working on AI security.
 
 
 Research Interests
